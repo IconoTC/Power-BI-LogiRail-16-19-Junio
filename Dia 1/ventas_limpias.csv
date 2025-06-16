@@ -1,0 +1,191 @@
+Fecha,Categoría,Producto,Unidades,Precio Unitario,Total,Vendedor
+25/03/2023,Hogar,Estantería,6,271.44,1628.6399999999999,Marta
+28/04/2023,Hogar,Estantería,3,296.65,889.9499999999999,Marta
+04/02/2023,Electrónica,Tablet,4,252.6,1010.4,Juan
+25/12/2023,Ropa,Chaqueta,8,68.5,548.0,Desconocido
+30/08/2023,Hogar,Lámpara,5,27.97,139.85,Desconocido
+13/10/2023,Electrónica,Televisor,6,170.43,1022.58,Marta
+12/06/2023,Libros,Biografía,5,18.17,90.85000000000001,Luis
+16/09/2023,Hogar,Silla,1,169.71,169.71,Ana
+05/06/2023,Ropa,Chaqueta,1,129.19,129.19,Luis
+21/05/2023,Hogar,Mesa,4,219.32,877.28,Luis
+08/12/2023,Electrónica,Tablet,4,19.95,79.8,Luis
+17/12/2023,Electrónica,Auriculares,8,237.59,1900.72,Carlos
+24/11/2023,Electrónica,Tablet,6,184.13,1104.78,Juan
+01/04/2023,Juguetes,Coche de juguete,3,49.43,148.29,Desconocido
+14/03/2023,Electrónica,Televisor,1,28.19,28.19,Luis
+28/03/2023,Ropa,Camiseta,3,210.43,631.29,Juan
+31/08/2023,Ropa,Chaqueta,10,48.13,481.3,Desconocido
+19/01/2023,Ropa,Camiseta,10,65.74,657.4,Carlos
+14/02/2023,Ropa,Pantalón,6,87.41,524.46,Carlos
+01/04/2023,Ropa,Camiseta,8,275.07,2200.56,Desconocido
+28/03/2023,Ropa,Pantalón,6,139.37,836.22,Marta
+26/12/2023,Electrónica,Smartphone,5,14.75,73.75,Carlos
+07/06/2023,Juguetes,Coche de juguete,9,281.52,2533.68,Desconocido
+07/08/2023,Electrónica,Tablet,9,42.7,384.3,Juan
+11/09/2023,Electrónica,Televisor,4,200.34,801.36,Luis
+22/12/2023,Electrónica,Smartphone,7,141.98,993.8599999999999,Luis
+09/08/2023,Ropa,Zapatos,5,198.59,992.95,Carlos
+19/08/2023,Electrónica,Televisor,9,204.43,1839.8700000000001,Marta
+09/06/2023,Electrónica,Smartphone,1,275.81,275.81,Ana
+24/06/2023,Electrónica,Televisor,1,188.29,188.29,Luis
+12/06/2023,Electrónica,Auriculares,8,56.01,448.08,Ana
+28/12/2023,Electrónica,Auriculares,4,26.14,104.56,Marta
+30/05/2023,Hogar,Silla,2,50.88,101.76,Carlos
+12/09/2023,Electrónica,Tablet,7,239.44,1676.08,Luis
+20/09/2023,Libros,Biografía,10,272.54,2725.4,Ana
+22/08/2023,Libros,Cómic,8,296.16,2369.28,Marta
+13/01/2023,Juguetes,Coche de juguete,9,52.77,474.93,Luis
+26/03/2023,Electrónica,Televisor,10,53.07,530.7,Luis
+01/09/2023,Juguetes,Puzzle,7,80.15,561.0500000000001,Juan
+27/11/2023,Ropa,Camiseta,8,258.5,2068.0,Luis
+22/08/2023,Libros,Cómic,9,227.28,2045.52,Ana
+22/01/2023,Libros,Biografía,10,131.97,1319.7,Marta
+18/05/2023,Ropa,Pantalón,9,49.07,441.63,Juan
+09/06/2023,Juguetes,Bloques,3,162.05,486.15000000000003,Juan
+11/12/2023,Juguetes,Muñeca,3,90.32,270.96,Ana
+16/10/2023,Ropa,Chaqueta,3,14.06,42.18,Luis
+07/08/2023,Hogar,Silla,8,95.44,763.52,Carlos
+10/09/2023,Electrónica,Auriculares,7,191.09,1337.63,Luis
+29/12/2023,Ropa,Zapatos,10,40.54,405.4,Carlos
+06/11/2023,Hogar,Mesa,1,230.4,230.4,Juan
+01/08/2023,Electrónica,Auriculares,2,221.51,443.02,Ana
+21/03/2023,Ropa,Chaqueta,4,96.1,384.4,Marta
+27/12/2023,Hogar,Estantería,9,224.66,2021.94,Ana
+27/07/2023,Libros,Cómic,4,99.73,398.92,Luis
+15/08/2023,Electrónica,Smartphone,2,170.25,340.5,Luis
+11/06/2023,Juguetes,Coche de juguete,1,18.09,18.09,Juan
+26/01/2023,Electrónica,Smartphone,4,236.07,944.28,Marta
+23/06/2023,Electrónica,Televisor,5,13.08,65.4,Juan
+19/03/2023,Electrónica,Smartphone,6,288.4,1730.3999999999999,Juan
+04/06/2023,Electrónica,Auriculares,10,58.79,587.9,Luis
+03/05/2023,Juguetes,Coche de juguete,6,118.05,708.3,Desconocido
+22/09/2023,Libros,Cómic,3,177.87,533.61,Ana
+25/04/2023,Electrónica,Televisor,8,167.33,1338.64,Ana
+28/02/2023,Ropa,Zapatos,2,240.58,481.16,Juan
+10/09/2023,Electrónica,Smartphone,8,181.52,1452.16,Juan
+02/03/2023,Ropa,Camiseta,7,246.29,1724.03,Juan
+14/05/2023,Electrónica,Tablet,7,76.61,536.27,Desconocido
+31/08/2023,Ropa,Chaqueta,5,134.93,674.6500000000001,Desconocido
+22/05/2023,Juguetes,Muñeca,2,241.12,482.24,Marta
+08/08/2023,Libros,Libro técnico,9,130.61,1175.4900000000002,Ana
+01/06/2023,Libros,Cómic,2,270.03,540.06,Marta
+20/09/2023,Ropa,Zapatos,3,169.76,509.28,Desconocido
+25/09/2023,Libros,Libro técnico,1,50.36,50.36,Juan
+20/02/2023,Libros,Novela,3,125.12,375.36,Desconocido
+05/01/2023,Hogar,Estantería,8,111.64,893.12,Carlos
+20/11/2023,Hogar,Lámpara,5,249.33,1246.65,Ana
+27/06/2023,Electrónica,Smartphone,4,108.01,432.04,Marta
+22/04/2023,Electrónica,Televisor,10,72.84,728.4000000000001,Desconocido
+28/07/2023,Electrónica,Tablet,2,284.38,568.76,Juan
+14/04/2023,Ropa,Pantalón,9,217.22,1954.98,Juan
+18/03/2023,Libros,Cómic,1,170.57,170.57,Luis
+27/10/2023,Hogar,Mesa,3,217.29,651.87,Ana
+18/11/2023,Libros,Libro técnico,4,159.22,636.88,Marta
+22/01/2023,Juguetes,Coche de juguete,3,253.63,760.89,Ana
+30/06/2023,Juguetes,Bloques,2,15.45,30.9,Ana
+20/05/2023,Libros,Novela,7,100.13,700.91,Carlos
+19/05/2023,Electrónica,Smartphone,7,282.35,1976.4500000000003,Luis
+17/08/2023,Ropa,Chaqueta,8,257.09,2056.72,Carlos
+16/09/2023,Hogar,Estantería,2,126.55,253.1,Carlos
+23/04/2023,Electrónica,Televisor,6,143.65,861.9000000000001,Carlos
+22/09/2023,Ropa,Chaqueta,5,92.05,460.25,Marta
+24/07/2023,Libros,Libro técnico,6,137.89,827.3399999999999,Marta
+08/06/2023,Hogar,Estantería,5,248.68,1243.4,Luis
+27/10/2023,Juguetes,Puzzle,4,201.43,805.72,Juan
+25/07/2023,Ropa,Camiseta,8,113.63,909.04,Desconocido
+30/07/2023,Libros,Biografía,7,234.0,1638.0,Juan
+07/01/2023,Electrónica,Auriculares,1,61.42,61.42,Luis
+17/05/2023,Juguetes,Coche de juguete,6,217.55,1305.3000000000002,Carlos
+21/03/2023,Electrónica,Auriculares,5,194.98,974.9,Marta
+09/12/2023,Libros,Biografía,8,295.25,2362.0,Marta
+05/12/2023,Electrónica,Televisor,8,205.32,1642.56,Carlos
+17/01/2023,Libros,Libro técnico,7,193.12,1351.8400000000001,Marta
+30/11/2023,Electrónica,Tablet,5,238.35,1191.75,Juan
+02/10/2023,Ropa,Pantalón,8,275.41,2203.28,Juan
+09/05/2023,Hogar,Lámpara,7,74.95,524.65,Luis
+30/04/2023,Electrónica,Smartphone,7,147.9,1035.3,Desconocido
+24/01/2023,Hogar,Silla,2,188.68,377.36,Luis
+15/03/2023,Electrónica,Auriculares,10,229.65,2296.5,Ana
+02/05/2023,Hogar,Mesa,2,297.29,594.58,Ana
+07/10/2023,Ropa,Pantalón,7,213.82,1496.74,Juan
+15/02/2023,Juguetes,Muñeca,7,180.8,1265.6000000000001,Carlos
+13/08/2023,Electrónica,Smartphone,8,174.27,1394.16,Luis
+08/09/2023,Juguetes,Bloques,9,188.77,1698.93,Ana
+18/05/2023,Libros,Novela,8,153.56,1228.48,Desconocido
+28/06/2023,Hogar,Estantería,8,165.65,1325.2,Juan
+27/09/2023,Hogar,Mesa,5,25.49,127.44999999999999,Juan
+09/08/2023,Hogar,Lámpara,5,274.26,1371.3,Carlos
+16/06/2023,Juguetes,Puzzle,10,230.41,2304.1,Marta
+14/10/2023,Ropa,Pantalón,10,254.28,2542.8,Ana
+02/07/2023,Electrónica,Auriculares,3,22.38,67.14,Desconocido
+01/05/2023,Ropa,Pantalón,1,150.55,150.55,Carlos
+19/12/2023,Electrónica,Auriculares,8,276.11,2208.88,Marta
+01/09/2023,Electrónica,Smartphone,1,296.97,296.97,Desconocido
+20/09/2023,Electrónica,Smartphone,4,148.68,594.72,Carlos
+30/03/2023,Electrónica,Televisor,4,181.51,726.04,Marta
+04/09/2023,Ropa,Zapatos,1,144.56,144.56,Ana
+22/01/2023,Ropa,Zapatos,6,252.87,1517.22,Marta
+17/08/2023,Electrónica,Televisor,8,43.31,346.48,Juan
+15/08/2023,Electrónica,Smartphone,6,257.56,1545.3600000000001,Luis
+07/04/2023,Hogar,Mesa,9,118.67,1068.03,Juan
+01/04/2023,Ropa,Pantalón,1,37.48,37.48,Ana
+20/03/2023,Hogar,Silla,2,259.65,519.3,Luis
+04/08/2023,Juguetes,Puzzle,2,253.44,506.88,Luis
+24/09/2023,Ropa,Zapatos,9,298.8,2689.2000000000003,Marta
+31/10/2023,Hogar,Lámpara,2,206.56,413.12,Juan
+10/11/2023,Juguetes,Bloques,4,39.17,156.68,Marta
+17/09/2023,Ropa,Camiseta,10,299.29,2992.9,Desconocido
+01/07/2023,Hogar,Mesa,2,119.02,238.04,Marta
+28/11/2023,Electrónica,Televisor,5,75.16,375.79999999999995,Juan
+29/01/2023,Hogar,Mesa,3,168.22,504.65999999999997,Ana
+29/04/2023,Ropa,Pantalón,10,285.85,2858.5,Desconocido
+14/05/2023,Ropa,Chaqueta,10,257.7,2577.0,Marta
+24/03/2023,Electrónica,Auriculares,10,152.65,1526.5,Desconocido
+12/10/2023,Electrónica,Auriculares,8,171.98,1375.84,Juan
+19/11/2023,Hogar,Lámpara,7,291.41,2039.8700000000001,Juan
+06/01/2023,Libros,Cómic,10,127.37,1273.7,Carlos
+24/09/2023,Juguetes,Puzzle,6,64.17,385.02,Juan
+25/11/2023,Libros,Cómic,2,35.39,70.78,Marta
+10/02/2023,Electrónica,Auriculares,7,292.61,2048.27,Marta
+01/08/2023,Hogar,Silla,9,212.64,1913.7599999999998,Luis
+16/07/2023,Ropa,Zapatos,6,104.95,629.7,Marta
+14/10/2023,Electrónica,Tablet,9,46.96,422.64,Desconocido
+05/03/2023,Libros,Libro técnico,4,96.16,384.64,Ana
+16/02/2023,Ropa,Camiseta,2,127.67,255.34,Marta
+14/04/2023,Ropa,Chaqueta,6,258.22,1549.3200000000002,Luis
+16/05/2023,Hogar,Estantería,4,59.22,236.88,Juan
+03/12/2023,Ropa,Camiseta,7,31.56,220.92,Desconocido
+25/04/2023,Ropa,Chaqueta,10,149.49,1494.9,Ana
+17/11/2023,Electrónica,Tablet,3,60.27,180.81,Luis
+20/12/2023,Libros,Libro técnico,9,115.09,1035.81,Luis
+07/06/2023,Libros,Biografía,3,44.91,134.73,Desconocido
+06/10/2023,Ropa,Camiseta,10,76.39,763.9,Ana
+16/07/2023,Hogar,Lámpara,2,283.67,567.34,Marta
+05/04/2023,Ropa,Camiseta,8,222.7,1781.6,Marta
+18/03/2023,Juguetes,Muñeca,7,74.37,520.59,Luis
+05/11/2023,Hogar,Lámpara,3,286.76,860.28,Carlos
+02/06/2023,Electrónica,Auriculares,9,80.67,726.03,Marta
+04/04/2023,Hogar,Estantería,2,141.24,282.48,Luis
+04/03/2023,Juguetes,Puzzle,9,190.37,1713.33,Carlos
+13/06/2023,Ropa,Pantalón,2,242.14,484.28,Marta
+09/01/2023,Ropa,Chaqueta,9,80.5,724.5,Carlos
+10/10/2023,Ropa,Camiseta,8,155.88,1247.04,Luis
+22/06/2023,Libros,Libro técnico,4,182.1,728.4,Juan
+21/06/2023,Ropa,Zapatos,4,224.98,899.92,Marta
+13/02/2023,Hogar,Estantería,2,81.79,163.58,Ana
+16/04/2023,Juguetes,Puzzle,7,48.48,339.35999999999996,Desconocido
+11/12/2023,Hogar,Silla,9,96.02,864.18,Ana
+03/10/2023,Electrónica,Smartphone,4,276.32,1105.28,Carlos
+13/10/2023,Libros,Libro técnico,9,110.27,992.43,Desconocido
+07/03/2023,Hogar,Estantería,5,169.4,847.0,Luis
+17/07/2023,Electrónica,Auriculares,2,95.36,190.72,Luis
+02/03/2023,Ropa,Zapatos,6,84.58,507.48,Desconocido
+17/03/2023,Electrónica,Tablet,6,208.04,1248.24,Luis
+08/03/2023,Juguetes,Coche de juguete,5,298.52,1492.6,Ana
+07/12/2023,Ropa,Camiseta,7,46.16,323.12,Luis
+04/09/2023,Juguetes,Bloques,9,59.01,531.09,Desconocido
+06/04/2023,Libros,Novela,8,275.38,2203.04,Ana
+05/04/2023,Juguetes,Puzzle,7,85.3,597.1,Luis
+08/08/2023,Hogar,Silla,2,119.07,238.14,Luis
+17/01/2023,Electrónica,Smartphone,3,46.15,138.45,Ana
