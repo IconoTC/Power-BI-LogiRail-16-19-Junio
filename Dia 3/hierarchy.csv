@@ -1,0 +1,10 @@
+Región,Categoría,Producto,Vendedor,Unidades,Ventas
+Norte,Tecnología,Portátil A,Ana,10,8000
+Norte,Tecnología,Tablet B,Luis,5,2500
+Norte,Mobiliario,Silla X,Ana,7,1400
+Sur,Tecnología,Portátil A,Raúl,3,2400
+Sur,Mobiliario,Mesa Z,Carla,8,2000
+Este,Tecnología,Tablet B,Luis,4,2000
+Este,Mobiliario,Silla X,Raúl,10,2000
+Oeste,Oficina,Archivador Q,Carla,6,600
+Oeste,Tecnología,Tablet B,Ana,7,3500
